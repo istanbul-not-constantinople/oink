@@ -1,0 +1,25 @@
+{
+  "type": "origins:restrict_armor",
+  "name": "Stinking Rich",
+  "description": "Due to your excessive wealth. You cannot be seen in anything less than diamond. Iron and below are off-limits.",
+  "head": {
+    "type": "origins:armor_value",
+    "comparison": "<",
+    "compare_to": 3
+  },
+  "chest": {
+    "type": "origins:armor_value",
+    "comparison": "<",
+    "compare_to": 8
+  },
+  "legs": {
+    "type": "origins:armor_value",
+    "comparison": "<",
+    "compare_to": 6
+  },
+  "feet": {
+    "type": "origins:armor_value",
+    "comparison": "<",
+    "compare_to": 3
+  }
+}

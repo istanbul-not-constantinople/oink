@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "xyz.radiish.oink.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BedBlockMixin",
+    "ExplosionMixin",
+    "LivingEntityMixin",
+    "RespawnAnchorBlockMixin",
+    "StatusEffectMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

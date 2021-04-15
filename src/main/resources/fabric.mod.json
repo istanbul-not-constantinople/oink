@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "oink",
+  "version": "${version}",
+  "name": "Oink",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/oink/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "xyz.radiish.oink.client.OinkClient"
+    ],
+    "main": [
+      "xyz.radiish.oink.Oink"
+    ]
+  },
+  "mixins": [
+    "oink.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.0",
+    "fabric": "*",
+    "origins": ">=0.6.0",
+    "minecraft": "1.16.5"
+  }
+}

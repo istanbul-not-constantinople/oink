@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "oink:the_blade/never_dies",
+    "oink:the_blade/preparation",
+    "oink:the_blade/anarchy",
+    "oink:the_blade/snob"
+  ],
+  "icon": "minecraft:netherite_sword",
+  "order": 200,
+  "impact": 2,
+  "name": "The Blade",
+  "description": "A pig-human hybrid. Built for destruction."
+}
