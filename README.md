@@ -6,7 +6,7 @@
 there are four unique powers included in this mod.
 
 ### mortal lock
-technoblade never dies. that is a fact. so, why would such an unkillable beast require totems? they are banned in this origin.
+technoblade never dies. so, why would such an unkillable beast require totems? they are banned in this origin.
 
 ### intense preparation
 technoblade trains hard, and always comes prepared. so emulate this, all potion effects (both positive and negative) are doubled in amplification.
